@@ -1,0 +1,8 @@
+{
+  "api_base_url": "https://api.openai.com/v1",
+  "api_key": "YOUR_API_KEY_HERE",
+  "model": "gpt-3.5-turbo",
+  "system_prompt": "You are NullClaw, a concise terminal AI assistant. Keep responses clear, use markdown for code, and avoid unnecessary filler.",
+  "max_tokens": 1024,
+  "temperature": 0.7
+}
