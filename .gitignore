@@ -1,0 +1,8 @@
+# 'GITIGNOREEOF'
+__pycache__/
+*.pyc
+chat_history.json
+config.json
+*.log
+.DS_Store
+GITIGNOREEOF
